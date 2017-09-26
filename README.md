@@ -1,3 +1,2 @@
-# FZAndroid
-FZ Android Application
-adalah aplikasi android yang di copy dari FZ Android ignat@hotmail.com
+# FZAndroid Application #
+adalah aplikasi android yang dibuat untuk keperluan optimasi panen kelapa sawit
